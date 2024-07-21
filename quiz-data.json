@@ -1,0 +1,331 @@
+[
+    {
+        "id": 1,
+        "question": "کدام تگ برای گذاشتن یک پاراگراف در صفحه استفاده میشود؟",
+        "question-list": [
+            "<h1>",
+            "<p>",
+            "<button>",
+            "<span>"
+        ],
+        "key": "<p>"
+    },
+    {
+        "id": 2,
+        "question": "کدام یک از تگ های هدینگ زیر کوچک ترین است؟",
+        "question-list": [
+            "<h1>",
+            "<h3>",
+            "<h6>",
+            "<h4>"
+        ],
+        "key": "<h6>"
+    },
+    {
+        "id": 3,
+        "question": "اچ تی ام ال مخفف چه جمله ای است؟",
+        "question-list": [
+            "hyper text markup language",
+            "hyper text markup list",
+            "hyper task markup language",
+            "hyper test marker language"
+        ],
+        "key": "hyper text markup language"
+    },
+    {
+        "id": 4,
+        "question": "برای ایجاد یک لیست مرتب از کدام تگ استفاده میکنیم؟",
+        "question-list": [
+            "<ul>",
+            "<section>",
+            "<ol>",
+            "<span>"
+        ],
+        "key": "<ol>"
+    },
+    {
+        "id": 5,
+        "question": " مربوط به کدام تگ میباشد؟target خاصیت ",
+        "question-list": [
+            "<a>",
+            "<p>",
+            "<iframe>",
+            "<div>"
+        ],
+        "key": "<a>"
+    },
+    {
+        "id": 6,
+        "question": "میخواهیم وقتی روی یک لینک کلیک شد آن لینک در یک تب جدید باز شود. از کدام خاصیت استفاده میکنیم؟",
+        "question-list": [
+            "src",
+            "target='_self'",
+            "href",
+            "target='_blank'"
+        ],
+        "key": "target='_blank'"
+    },
+    {
+        "id": 7,
+        "question": "تگی که بیشترین ارزش مکانی در صفحه دارد؟",
+        "question-list": [
+            "<h2>",
+            "<h1>",
+            "<blockquote>",
+            "<p>"
+        ],
+        "key": "<h1>"
+    },
+    {
+        "id": 8,
+        "question": "چیست؟ required خاصیت ",
+        "question-list": [
+            "با استفاده از آن میتوان مشخص کرد که یک فیلد اینپوت در فرم حتما و ضروری است که تکمیل شود",
+            "باعث میشود که کاربر به دلخواه ورودی را پر کند",
+            "باعث ایجاد یک ورودی میشود",
+            "همچین خاصیتی وجود ندارد"
+        ],
+        "key": "با استفاده از آن میتوان مشخص کرد که یک فیلد اینپوت در فرم حتما و ضروری است که تکمیل شود"
+    },
+    {
+        "id": 9,
+        "question": "کدام یک از تگ های زیر یک خط صاف به صورت افقی ترسیم میکند؟",
+        "question-list": [
+            "<i>",
+            "<hr>",
+            "<br>",
+            "<em>"
+        ],
+        "key": "<hr>"
+    },
+    {
+        "id": 10,
+        "question": "کدام یک از دستور زیر غلط میباشد؟",
+        "question-list": [
+            "<p>Front Code</p>",
+            "<h1>Front code</h1>",
+            "<h2 front code>",
+            "<span>front-code </span>"
+        ],
+        "key": "<h2 front code>"
+    },
+    {
+        "id": 11,
+        "question": "میخواهیم یک لینک به صفحه فرانت کد ایجاد کنیم. کدام یک از دستورات زیر درست است؟",
+        "question-list": [
+            "<a https://front-code.ir>",
+            "<link href='https://front-code.ir'></link>",
+            "<a href='https://front-code.ir'><a>",
+            "<a href='https://front-code.ir'></a>"
+        ],
+        "key": "<a href='https://front-code.ir'></a>"
+    },
+    {
+        "id": 12,
+        "question": " به صورت زیر میباشد html پسوند یک فایل ",
+        "question-list": [
+            ".html or .htm",
+            ".httml",
+            ".xml",
+            ".json"
+        ],
+        "key": ".html or .htm"
+    },
+    {
+        "id": 13,
+        "question": "چه کاری انجام میدهد؟ img در تگ src صفت و یا خاصیت ",
+        "question-list": [
+            "مسیر فایل عکس را مشخص میکند",
+            "یک تایتل به عکس اضافه میکند",
+            "یک متن جایگزین عکس میکند",
+            "عرض و طول عکس را مشخص میکند"
+        ],
+        "key": "مسیر فایل عکس را مشخص میکند"
+    },
+    {
+        "id": 14,
+        "question": "کدام تگ است که همانند یک ظرف برای نگهداری دیگر تگ ها استفاده میشود؟",
+        "question-list": [
+            "<div>",
+            "<span>",
+            "<tr>",
+            "<pre>"
+        ],
+        "key": "<div>"
+    },
+    {
+        "id": 15,
+        "question": "کدام یک از تگ های زیر یک تگ معنایی است؟",
+        "question-list": [
+            "<article>",
+            "<button>",
+            "<input>"
+        ],
+        "key": "<article>"
+    },
+    {
+        "id": 16,
+        "question": "به طور خیلی خلاصه تگ های معنایی جه ویژگی دارند؟",
+        "question-list": [
+            "باعث بهبود سئو میشود",
+            "باعث میشوند سرعت سایت بره بالا",
+            "باعث ریسپانسیو سازی سایت میشوند",
+            "هیچ عملکردی ندارند"
+        ],
+        "key": "باعث بهبود سئو میشود"
+    },
+    {
+        "id": 17,
+        "question": "style تگ چه کاری میتواند انجام دهد؟",
+        "question-list": [
+            "همچین تگی نداریم اصلا",
+            "استایل نویسی کرد html میتوان درون سند",
+            "یک فرم درست کرد؟",
+            "میتوان عکس گذاشت؟"
+        ],
+        "key": "استایل نویسی کرد html میتوان درون سند"
+    },
+    {
+        "id": 18,
+        "question": "کدام یک از گزینه های زیر صحیح میباشد؟",
+        "question-list": [
+            "تگ بسته دارد input تگ",
+            "تعریف کرد html نمیتوان استایل های صفحه را درون سند ",
+            "برای قرار دادن موزیک در صفحه استفاده میشود sound تگ",
+            "را فقط میتوانید یکبار بار توی هر صفحه استفاده کنید h1 قانونا تگ"
+        ],
+        "key": "را فقط میتوانید یکبار بار توی هر صفحه استفاده کنید h1 قانونا تگ"
+    },
+    {
+        "id": 19,
+        "question": "اگر بخواهیم یک چک باکس در یک فرم ایجاد نماییم باید از چه دستوری استفاده نماییم؟",
+        "question-list": [
+            "<input type='checkbox'>",
+            "<input type='text'>",
+            "<input type='radio'>",
+            "<input type='date'>"
+        ],
+        "key": "<input type='checkbox'>"
+    },
+    {
+        "id": 20,
+        "question": "دارند؟ display inline کدام یک از تگ های زیر به صورت پیشفرض",
+        "question-list": [
+            "<p>",
+            "<span>",
+            "<div>",
+            "<table>"
+        ],
+        "key": "<span>"
+    },
+    {
+        "id": 21,
+        "question": "دارند؟ display block کدام یک از تگ های زیر به صورت پیشفرض",
+        "question-list": [
+            "<p>",
+            "<a>",
+            "<img>",
+            "<input>"
+        ],
+        "key": "<p>"
+    },
+    {
+        "id": 22,
+        "question": "برای ایجاد یک ردیف در جدول از کدام تگ استفاده میکنیم؟",
+        "question-list": [
+            "<tr>",
+            "<td>",
+            "<tfoor>",
+            "<th>"
+        ],
+        "key": "<tr>"
+    },
+    {
+        "id": 23,
+        "question": "برای ایجاد یک جدول از کدام تگ استفاده میکنیم؟",
+        "question-list": [
+            "<tr>",
+            "<data>",
+            "<table>",
+            "<tfoot>"
+        ],
+        "key": "<table>"
+    },
+    {
+        "id": 24,
+        "question": "برای ایجاد یک ورودی از کدام تگ استفاده میکنیم؟",
+        "question-list": [
+            "<input>",
+            "<form>",
+            "<promp>",
+            "<tr>"
+        ],
+        "key": "<input>"
+    },
+    {
+        "id": 25,
+        "question": "برای ایجاد یک فرم در صفحه از کدام تگ استفاده میکنیم؟",
+        "question-list": [
+            "<form>",
+            "<input>",
+            "<forms>",
+            "<table>"
+        ],
+        "key": "<form>"
+    },
+    {
+        "id": 26,
+        "question": "برای ایجاد یک ورودی با نوع عددی از کدام یک از گزینه های زیر استفاده میکنیم؟",
+        "question-list": [
+            "<input type='number'>",
+            "<input type='text'>",
+            "<input type='date'>",
+            "<input type='submit'>"
+        ],
+        "key": "<input type='number'>"
+    },
+    {
+        "id": 27,
+        "question": "برای قرار دادن موزیک/آهنگ در یک صفحه وب باید از چه تگی استفاده کرد؟",
+        "question-list": [
+            "<sound>",
+            "<music>",
+            "<video>",
+            "<audio>"
+        ],
+        "key": "<audio>"
+    },
+    {
+        "id": 28,
+        "question": "برای پخش خودکار یک ویدئو باید از چه صفتی استفاده کرد؟",
+        "question-list": [
+            "autoplay",
+            "load",
+            "auto",
+            "autoload"
+        ],
+        "key": "autoplay"
+    },
+    {
+        "id": 29,
+        "question": "برای قرار دادن ویدئو از کدام تگ استفاده میکنیم؟",
+        "question-list": [
+            "<video>",
+            "<audio>",
+            "<src>",
+            "<videoes>"
+        ],
+        "key": "<video>"
+    },
+    {
+        "id": 30,
+        "question": "دستورات جاوا اسکریپت را باید در بین کدام تگ و در کدام قسمت یک صفحه قرار داد؟",
+        "question-list": [
+            "<script> بین <body> یا <head>",
+            "<javascript> <body> بین تک ",
+            "بین تگ <style>",
+            "بین تگ <iframe>"
+        ],
+        "key": "<script> بین <body> یا <head>"
+    }
+]
